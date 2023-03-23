@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prashik Wankhade 
-- 👀 I’m interested in ... Data Analysis & Visualization
-- 🌱 I’m currently learning ... MySQL
+- 👀 I’m interested in ... Data Analysis & Visualization & Devloper
+- 🌱 I’m currently learning ... MySQL && Java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Prashik069@gmail.com 
 
